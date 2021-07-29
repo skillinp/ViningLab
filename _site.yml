@@ -5,10 +5,16 @@ navbar:
   left:
   - text: "Home"
     href: index.html
+  - text: "Black Raspberry"
+    href: black_raspberry.html    
+  - text: "Hazelnut"
+    href: hazelnut.html
   - text: "Hemp"
     href: hemp.html
   - text: "Mint"
     href: mint.html
+  - text: "Potato"
+    href: potato.html
 output:
   html_document:
     theme: cosmo

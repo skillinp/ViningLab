@@ -1,17 +1,20 @@
 ---
 title: "Welcome"
-author: "Brian J. Knaus"
-date: "7/28/2021"
 output: html_document
 ---
 
+Welcome to the Vining Lab
 
-Here's Comp Bio!
+
+___
 
 
 # Blast notes
 
 For simple tasks we may just go to NCBI: [NCBI BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi).
+
+
+___
 
 
 # Links
@@ -27,7 +30,7 @@ For simple tasks we may just go to NCBI: [NCBI BLAST](https://blast.ncbi.nlm.nih
 ___
 
 
-[GitHub Pages](https://knausb.github.io/compbio/)  - This site on GitHub pages.    
-[GitHub Code](https://github.com/knausb/compbio/)  - This site in GitHub code.
+[GitHub Pages](https://vininglab.github.io/ViningLab/)  - This site on GitHub pages.    
+[GitHub Code](https://github.com/ViningLab/ViningLab)  - This site in GitHub code.
 
 
