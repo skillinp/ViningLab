@@ -1,0 +1,13 @@
+---
+title: "Hemp"
+author: "Brian J. Knaus"
+date: "7/28/2021"
+output: html_document
+---
+
+
+Hemp Genomics
+
+[Cannabis at NCBI](https://www.ncbi.nlm.nih.gov/search/all/?term=cannabis%20)
+
+
