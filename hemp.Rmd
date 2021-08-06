@@ -1,13 +1,28 @@
 ---
-title: "Hemp"
+title: "Hemp breeding"
 author: "Brian J. Knaus"
 date: "7/28/2021"
 output: html_document
 ---
 
 
-Hemp Genomics
+Hemp genomics.
 
 [Cannabis at NCBI](https://www.ncbi.nlm.nih.gov/search/all/?term=cannabis%20)
 
+
+___
+
+## Industry links
+
+
+Strain information:    
+[CBD Logistics](https://www.cbdlogistics.ch/en/14-certified-seeds-cbd-logistics) - Certified seeds    
+[Leafly](https://www.leafly.com/strains/lists) - Strain lists    
+
+
+___
+
+Links:    
+[Cannabis at Wikipedia](https://en.wikipedia.org/wiki/Cannabis)    
 
