@@ -12,16 +12,14 @@ editor_options:
 ---
 
 
-Hemp genomics.
+## Hemp genomics.
 
 [Cannabis at NCBI](https://www.ncbi.nlm.nih.gov/search/all/?term=cannabis%20)
 
-___
+[CBDRx at NCBI](https://www.ncbi.nlm.nih.gov/genome/11681?genome_assembly_id=897706)
 
 
 ```{r}
-
-
 nuc <- structure(list(Id = c("NC_044371.1", "NC_044375.1", "NC_044372.1", 
 "NC_044373.1", "NC_044374.1", "NC_044377.1", "NC_044378.1", "NC_044379.1", 
 "NC_044376.1", "NC_044370.1"), Length = c(101209240, 96346938, 
@@ -48,7 +46,7 @@ nuc <- structure(list(Id = c("NC_044371.1", "NC_044375.1", "NC_044372.1",
 
 
 
-```{r, fig.width = 8, fig.height=6, fig.align='center', fig.cap="Figure X. Idiogram of the nine autosomal chromosomes and a sex chromosome (CBDRx was genetically female so it was homozygous for the X chromosome)."}
+```{r, fig.width = 8, fig.height=6, fig.align='center', fig.cap="**Figure 1.** Idiogram of the nine CBDRx autosomal chromosomes and a sex chromosome (CBDRx was genetically female so it was homozygous for the X chromosome)."}
 
 chrmw <- 0.05
 prbw  <- 0.2
@@ -79,6 +77,9 @@ Strain information:
 
 ___
 
-Links:    
+## Internet Links
+
 [Cannabis at Wikipedia](https://en.wikipedia.org/wiki/Cannabis)    
+
+
 
