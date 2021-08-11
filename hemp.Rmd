@@ -1,7 +1,7 @@
 ---
 title: "Hemp breeding"
 author: "Brian J. Knaus"
-date: "7/28/2021"
+date: "`r format(Sys.time(), '%Y, %B %d')`"
 output:
   html_document:
     toc: true
@@ -10,6 +10,9 @@ output:
 editor_options: 
   chunk_output_type: console
 ---
+
+
+___
 
 
 ## Hemp genomics.
@@ -71,9 +74,9 @@ ___
 
 
 Strain information:    
-[CBD Logistics](https://www.cbdlogistics.ch/en/14-certified-seeds-cbd-logistics) - Certified seeds    
-[Leafly](https://www.leafly.com/strains/lists) - Strain lists    
-
+[CBD Logistics](https://www.cbdlogistics.ch/en/14-certified-seeds-cbd-logistics) (Switzerland) - Certified seeds    
+[Leafly](https://www.leafly.com/strains/lists) (WA, USA) - Strain lists    
+[Dewey Scientific](https://www.deweyscientific.com/) (WA, USA)    
 
 ___
 
