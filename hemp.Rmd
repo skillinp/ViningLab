@@ -48,7 +48,7 @@ nuc <- structure(list(Id = c("NC_044371.1", "NC_044375.1", "NC_044372.1",
 
 
 
-```{r, fig.width = 8, fig.height=6, fig.align='center', fig.cap="Figure X. Idiogram of the nine autosomal chromosomes and a sex chromosome (CBDRx was genetically female so it was homozygotic for the X chromosome)."}
+```{r, fig.width = 8, fig.height=6, fig.align='center', fig.cap="Figure X. Idiogram of the nine autosomal chromosomes and a sex chromosome (CBDRx was genetically female so it was homozygous for the X chromosome)."}
 
 chrmw <- 0.05
 prbw  <- 0.2
