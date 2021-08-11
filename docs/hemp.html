@@ -30,6 +30,7 @@
        code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
        pre:not([class]) { background-color: white }</style>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
+<script src="site_libs/navigation-1.1/codefolding.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 
@@ -215,6 +216,9 @@ $(document).ready(function () {
 </style>
 
 <!-- code folding -->
+<style type="text/css">
+.code-folding-btn { margin-bottom: 4px; }
+</style>
 
 
 
@@ -269,6 +273,14 @@ $(document).ready(function () {
 
 <div id="header">
 
+<div class="btn-group pull-right float-right">
+<button type="button" class="btn btn-default btn-xs btn-secondary btn-sm dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span>Code</span> <span class="caret"></span></button>
+<ul class="dropdown-menu dropdown-menu-right" style="min-width: 50px;">
+<li><a id="rmd-show-all-code" href="#">Show All Code</a></li>
+<li><a id="rmd-hide-all-code" href="#">Hide All Code</a></li>
+</ul>
+</div>
+
 
 
 <h1 class="title toc-ignore">Hemp breeding</h1>
@@ -277,9 +289,55 @@ $(document).ready(function () {
 
 </div>
 
+<div id="TOC">
+<ul>
+<li><a href="#industry-links">Industry links</a></li>
+</ul>
+</div>
 
 <p>Hemp genomics.</p>
 <p><a href="https://www.ncbi.nlm.nih.gov/search/all/?term=cannabis%20">Cannabis at NCBI</a></p>
+<hr />
+<pre class="r"><code>nuc &lt;- structure(list(Id = c(&quot;NC_044371.1&quot;, &quot;NC_044375.1&quot;, &quot;NC_044372.1&quot;, 
+&quot;NC_044373.1&quot;, &quot;NC_044374.1&quot;, &quot;NC_044377.1&quot;, &quot;NC_044378.1&quot;, &quot;NC_044379.1&quot;, 
+&quot;NC_044376.1&quot;, &quot;NC_044370.1&quot;), Length = c(101209240, 96346938, 
+94670641, 91913879, 88181582, 79335105, 71238074, 64622176, 61561104, 
+104987320), a = c(12762692, 15648113, 15834625, 15706376, 16864131, 
+15448470, 12544227, 9979448, 10305137, 16150029), A = c(11748277, 
+9880538, 9810980, 10180981, 10000065, 9320665, 7534637, 8191831, 
+7518942, 12415232), c = c(4717714, 6495082, 6494817, 6294060, 
+7007138, 6429275, 5306040, 3917350, 4089354, 6429511), C = c(7349355, 
+6457816, 6342764, 6498433, 6511470, 6046421, 4942448, 5190552, 
+4771093, 8027053), g = c(4737281, 6501151, 6541912, 6321483, 
+6996441, 6460883, 5307013, 3917059, 4120057, 6440113), G = c(7366441, 
+6462266, 6351808, 6511484, 6528963, 6025024, 4953814, 5184073, 
+4778222, 8042296), t = c(12761506, 15640696, 15877710, 15713009, 
+16816817, 15442514, 12513884, 9980581, 10312600, 16153769), T = c(11753649, 
+9888880, 9820939, 10176745, 9975902, 9337925, 7535448, 8161118, 
+7493785, 12429366), n = c(0, 0, 0, 0, 0, 0, 0, 0, 0, 0), N = c(28012325, 
+19372396, 17595086, 14511308, 7480655, 4823928, 10600563, 10100164, 
+8171914, 18899951)), row.names = c(NA, -10L), class = c(&quot;tbl_df&quot;, 
+&quot;tbl&quot;, &quot;data.frame&quot;))
+# nuc</code></pre>
+<pre class="r"><code>chrmw &lt;- 0.05
+prbw  &lt;- 0.2
+
+plot(1:nrow(nuc), nuc$Length/1e6, type = &quot;n&quot;, xlab = &quot;&quot;, ylab = &quot;&quot;,
+     ylim = c(0, max(nuc$Length)/1e6), xaxt = &quot;n&quot;)
+axis(side = 1, at = 1:10, labels = c(1:9, &quot;X&quot;))
+title(xlab = &quot;Chromosome&quot;)
+title(ylab = &quot;Position (Mbp)&quot;)
+
+rect(xleft = 1:nrow(nuc) - chrmw, ybottom = rep(1, times = nrow(nuc)), 
+     xright = 1:nrow(nuc) + chrmw, ytop = nuc$Length/1e6, 
+     col = &quot;#C0C0C0&quot;,
+     border = &quot;#808080&quot;)</code></pre>
+<div class="figure" style="text-align: center">
+<img src="hemp_files/figure-html/unnamed-chunk-2-1.png" alt="Figure X. Idiogram of the nine autosomal chromosomes and a sex chromosome (CBDRx was genetically female so it was homozygotic for the X chromosome)." width="768" />
+<p class="caption">
+Figure X. Idiogram of the nine autosomal chromosomes and a sex chromosome (CBDRx was genetically female so it was homozygotic for the X chromosome).
+</p>
+</div>
 <hr />
 <div id="industry-links" class="section level2">
 <h2>Industry links</h2>
@@ -324,6 +382,11 @@ $(document).ready(function () {
 </script>
 
 <!-- code folding -->
+<script>
+$(document).ready(function () {
+  window.initializeCodeFolding("hide" === "show");
+});
+</script>
 
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
