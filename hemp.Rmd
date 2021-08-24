@@ -9,7 +9,14 @@ output:
     code_folding: hide
 editor_options: 
   chunk_output_type: console
+bibliography: ViningLab.bib
 ---
+
+
+*Cannabis sativa* L. has been used almost as long as there has been civilization ([Cannabis at Wikipedia](https://en.wikipedia.org/wiki/Cannabis)).
+The plant fiber has been used as a textile to make cloth, it's seeds have been used as food for humans and animals, and it's essential oils have been used as medicine.
+The 2018 U.S. farm bill decriminalized industrial hemp and has defined it as plants containing less than 0.3% $\Delta$(9)-tetrahydrocannabinolic acid.
+A goal of the lab is to use genomics to better understand agronomically important traits and how we can make informed decisions to breed the best crops possible. 
 
 
 ___
@@ -17,7 +24,13 @@ ___
 
 ## Hemp genomics.
 
-[Cannabis at NCBI](https://www.ncbi.nlm.nih.gov/search/all/?term=cannabis%20)
+
+The hemp genome is thought to be aroun 800-900 Mbp (haploid size) and consist of nine pairs of autosomes and a pair of sex chromosomes.
+The [Kew Plant C-values database](https://cvalues.science.kew.org/search/angiosperm) reports *Cannabis sativa* as having a 1C (pg) of 0.84, or `r format(0.84 * 0.978e3, big.mark = ",")` Mbp  ([Wikipedia C-value conversion](https://en.wikipedia.org/wiki/C-value)).
+Sequencing efforts have resulted in over ten genomic assemblies of various qualities assembled with a variety of technologies ([Cannabis at NCBI](https://www.ncbi.nlm.nih.gov/search/all/?term=cannabis%20)).
+A recent attempt [@grassa2021new] resulted in an assembly of all ten chromosomes (as well as unplaced contigs).
+Building on these genomic resources we hope to learn to better understand how these plants produce essential oils as well as other phytochemicals.
+
 
 [CBDRx at NCBI](https://www.ncbi.nlm.nih.gov/genome/11681?genome_assembly_id=897706)
 
@@ -94,4 +107,6 @@ ___
 [Cannabis at Wikipedia](https://en.wikipedia.org/wiki/Cannabis)    
 [Cannabis GDB](https://gdb.supercann.net/index.php)    
 
+
+# References
 
