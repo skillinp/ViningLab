@@ -32,6 +32,7 @@ A recent attempt [@grassa2021new] resulted in an assembly of all ten chromosomes
 Building on these genomic resources we hope to learn to better understand how these plants produce essential oils as well as other phytochemicals.
 
 
+
 [CBDRx at NCBI](https://www.ncbi.nlm.nih.gov/genome/11681?genome_assembly_id=897706)
 
 
