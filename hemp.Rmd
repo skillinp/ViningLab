@@ -68,6 +68,15 @@ rect(xleft = 1:nrow(nuc) - chrmw, ybottom = rep(1, times = nrow(nuc)),
 ```
 
 
+
+
+```{r, echo=FALSE, out.width="80%", fig.cap="**Figure X.** The chromosomes of CBDRx with mRNAs depicted in light blue.", fig.pos='center'}
+knitr::include_graphics("cbdrx_mrna2.png")
+```
+
+
+
+
 ___
 
 ## Industry links
