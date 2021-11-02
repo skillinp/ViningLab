@@ -108,7 +108,12 @@ ___
 [Cannabis at Wikipedia](https://en.wikipedia.org/wiki/Cannabis)    
 [Cannabis GDB](https://gdb.supercann.net/index.php)    
 [Kannapedia](https://www.kannapedia.net/)    
+<<<<<<< HEAD
 [Hemp pests](https://pnwhandbooks.org/insect/agronomic/hemp) at Pacific Northwest Pest Management Handbooks
+=======
+**Co**mparative **Ge**nomics [CoGe Cannabis](https://genomevolution.org/coge/SearchResults.pl?s=Cannabis&p=genome)
+
+>>>>>>> c96a3ea68fb525b7ebbbf5281dbace50ec34e3fa
 
 
 # References
