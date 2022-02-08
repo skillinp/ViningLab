@@ -1,0 +1,26 @@
+---
+title: "Methods"
+author: "Brian J. Knaus"
+date: "7/28/2021"
+output: html_document
+---
+
+
+## Blast notes
+
+For simple tasks we may just go to NCBI: [NCBI BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi).
+
+
+## Links
+
+[BatchPrimer3](https://wheat.pw.usda.gov/demos/BatchPrimer3/)    
+[GitHub docs](https://docs.github.com/en)    
+[NCBI BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi).    
+[RStudio Cheatsheets](https://www.rstudio.com/resources/cheatsheets/)    
+[GitHub Pages](https://resources.github.com/whitepapers/github-and-rstudio/)    
+[Phytozome]((https://phytozome-next.jgi.doe.gov))    
+
+
+
+
+

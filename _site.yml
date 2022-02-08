@@ -3,8 +3,6 @@ output_dir: "docs"
 navbar:
   title: "Vining Lab"
   left:
-  - text: "Home"
-    href: index.html
   - text: "Black Raspberry"
     href: black_raspberry.html    
   - text: "Hazelnut"
@@ -15,6 +13,10 @@ navbar:
     href: mint.html
   - text: "Potato"
     href: potato.html
+  - text: "Methods"
+    href: methods.html
+  - text: "Reading group"
+    href: reading_group.html
 output:
   html_document:
     theme: cosmo

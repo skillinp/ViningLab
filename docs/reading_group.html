@@ -11,7 +11,7 @@
 
 
 
-<title>Hazelnut</title>
+<title>Reading Group</title>
 
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -29,6 +29,7 @@
        code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
        pre:not([class]) { background-color: white }</style>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
+<script src="site_libs/navigation-1.1/codefolding.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 
@@ -214,6 +215,9 @@ $(document).ready(function () {
 </style>
 
 <!-- code folding -->
+<style type="text/css">
+.code-folding-btn { margin-bottom: 4px; }
+</style>
 
 
 
@@ -271,16 +275,77 @@ $(document).ready(function () {
 
 <div id="header">
 
-
-
-<h1 class="title toc-ignore">Hazelnut</h1>
-
+<div class="btn-group pull-right float-right">
+<button type="button" class="btn btn-default btn-xs btn-secondary btn-sm dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span>Code</span> <span class="caret"></span></button>
+<ul class="dropdown-menu dropdown-menu-right" style="min-width: 50px;">
+<li><a id="rmd-show-all-code" href="#">Show All Code</a></li>
+<li><a id="rmd-hide-all-code" href="#">Hide All Code</a></li>
+</ul>
 </div>
 
 
-<p>Hazelnut!</p>
-<div id="hazelnut-links" class="section level2">
-<h2>Hazelnut links</h2>
+
+<h1 class="title toc-ignore">Reading Group</h1>
+<h4 class="date">2022, February 08</h4>
+
+</div>
+
+<div id="TOC">
+<ul>
+<li><a href="#seminars">Seminars</a></li>
+<li><a href="#slack-channels">Slack channels</a></li>
+<li><a href="#reading-group">Reading group</a></li>
+<li><a href="#societal-links">Societal links</a></li>
+<li><a href="#osu-cultural-resource-centers">OSU <span>Cultural Resource Centers</span></a></li>
+</ul>
+</div>
+
+<div id="seminars" class="section level2">
+<h2>Seminars</h2>
+<p><a href="https://horticulture.oregonstate.edu/horticulture-0">Department of Horticulture seminar series</a><br />
+<a href="https://cropandsoil.oregonstate.edu/department-of-crop-and-soil-science/lectures">Department of Crop and Soil Science seminar series</a><br />
+<a href="https://bpp.oregonstate.edu/bpp/about/seminars">Department of Botany and Plant Pathology seminar series</a><br />
+<a href="https://cqls.oregonstate.edu/cqls-seminar-series">Center for Quantitative Life Sciences seminar series</a><br />
+Note that the CQLS also hosts a spring and fall conference, and other <a href="https://cqls.oregonstate.edu/events">CQLS events</a><br />
+<a href="https://cqls.oregonstate.edu/training/bioinformatics-users-group-bug">Bioinformatics Users Group (BUG)</a></p>
+</div>
+<div id="slack-channels" class="section level2">
+<h2>Slack channels</h2>
+<p>OSU-CQLS-BUG<br />
+Also see: <a href="https://software.cqls.oregonstate.edu/tips/posts/">CQLS tips</a></p>
+<hr />
+</div>
+<div id="reading-group" class="section level2">
+<h2>Reading group</h2>
+<div id="spring-2022" class="section level3">
+<h3>Spring 2022</h3>
+<ul>
+<li><p>2022-06-01</p></li>
+<li><p>2022-05-18</p></li>
+<li><p>2022-05-04 <a href="https://doi.org/10.1371/journal.%20pone.0222363">Allen et al. 2019</a> Genomic characterization of the complete terpene synthase gene family from Cannabis sativa</p></li>
+<li><p>2022-04-20 <a href="10.3389/fgene.2020.566314">Petit et al. 2020</a> Elucidating the Genetic Architecture of Fiber Quality in Hemp (Cannabis sativa L.) Using a Genome-Wide Association Study</p></li>
+<li><p>2022-04-06 <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7565776/">Ejigu and Jung 2020</a> Review on the Computational Genome Annotation of Sequences Obtained by Next-Generation Sequencing</p></li>
+</ul>
+<hr />
+</div>
+</div>
+<div id="societal-links" class="section level1">
+<h1>Societal links</h1>
+<p><a href="https://www.aaas.org/">American Association for the Advancement of Science</a> - Organization to advance science, engineering, and innovation throughout the world<br />
+<a href="https://www.apsnet.org">American Phytopathological Society</a> - Society that studies the diseases of plants<br />
+<a href="https://aspb.org/">American Society of Plant Biologists</a> - Society that studies plant biology<br />
+<a href="https://ashs.org/">American Society for Horticultural Science</a> - committed to promoting and encouraging national and international interest in scientific research and education in all branches of horticulture</p>
+<hr />
+</div>
+<div id="osu-cultural-resource-centers" class="section level1">
+<h1>OSU <a href="https://dce.oregonstate.edu/cultural-resource-centers">Cultural Resource Centers</a></h1>
+<p><a href="https://dce.oregonstate.edu/apcc">Asian &amp; Pacific Cultural Center</a><br />
+<a href="https://dce.oregonstate.edu/cccc">Centro Cultural César Chávez</a><br />
+<a href="https://dce.oregonstate.edu/ecc">Ettihad Cultural Center</a><br />
+<a href="https://dce.oregonstate.edu/wgc">Hattie Redmond Women &amp; Gender Center</a><br />
+<a href="https://dce.oregonstate.edu/inahaws">Kaku-Ixt Mana Ina Haws</a><br />
+<a href="https://dce.oregonstate.edu/bcc">Lonnie B. Harris Black Cultural Center</a><br />
+<a href="https://dce.oregonstate.edu/pc">Pride Center</a></p>
 </div>
 
 
@@ -316,6 +381,11 @@ $(document).ready(function () {
 </script>
 
 <!-- code folding -->
+<script>
+$(document).ready(function () {
+  window.initializeCodeFolding("hide" === "show");
+});
+</script>
 
 
 <!-- dynamically load mathjax for compatibility with self-contained -->

@@ -1,0 +1,90 @@
+---
+title: "Reading Group"
+date: "`r format(Sys.time(), '%Y, %B %d')`"
+output:
+  html_document:
+    toc: true
+    toc_depth: 2
+    code_folding: hide
+editor_options: 
+  chunk_output_type: console
+bibliography: ViningLab.bib
+---
+
+
+## Seminars
+
+
+[Department of Horticulture seminar series](https://horticulture.oregonstate.edu/horticulture-0)    
+[Department of Crop and Soil Science seminar series](https://cropandsoil.oregonstate.edu/department-of-crop-and-soil-science/lectures)    
+[Department of Botany and Plant Pathology seminar series](https://bpp.oregonstate.edu/bpp/about/seminars)    
+[Center for Quantitative Life Sciences seminar series](https://cqls.oregonstate.edu/cqls-seminar-series)    
+Note that the CQLS also hosts a spring and fall conference, and other [CQLS events](https://cqls.oregonstate.edu/events)    
+[Bioinformatics Users Group (BUG)](https://cqls.oregonstate.edu/training/bioinformatics-users-group-bug)   
+
+
+## Slack channels
+
+OSU-CQLS-BUG    
+Also see: [CQLS tips](https://software.cqls.oregonstate.edu/tips/posts/)
+
+
+
+---
+
+
+## Reading group
+
+### Spring 2022    
+
+
+- 2022-06-01
+
+
+- 2022-05-18
+
+
+- 2022-05-04 [Allen et al. 2019](https://doi.org/10.1371/journal. pone.0222363) Genomic characterization of the complete terpene synthase gene family from Cannabis sativa
+
+
+- 2022-04-20 [Petit et al. 2020](10.3389/fgene.2020.566314) Elucidating the Genetic Architecture of Fiber Quality in Hemp (Cannabis sativa L.) Using a Genome-Wide Association Study
+
+
+- 2022-04-06 [Ejigu and Jung 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7565776/) Review on the Computational Genome Annotation of Sequences Obtained by Next-Generation Sequencing
+
+
+---
+
+
+# Societal links
+
+
+[American Association for the Advancement of Science](https://www.aaas.org/) - Organization to advance science, engineering, and innovation throughout the world    
+[American Phytopathological Society](https://www.apsnet.org) - Society that studies the diseases of plants    
+[American Society of Plant Biologists](https://aspb.org/) - Society that studies plant biology     
+[American Society for Horticultural Science](https://ashs.org/) - committed to promoting and encouraging national and international interest in scientific research and education in all branches of horticulture   
+
+
+---
+
+
+# OSU [Cultural Resource Centers](https://dce.oregonstate.edu/cultural-resource-centers)
+
+
+[Asian & Pacific Cultural Center](https://dce.oregonstate.edu/apcc)    
+[Centro Cultural César Chávez](https://dce.oregonstate.edu/cccc)    
+[Ettihad Cultural Center](https://dce.oregonstate.edu/ecc)    
+[Hattie Redmond Women & Gender Center](https://dce.oregonstate.edu/wgc)    
+[Kaku-Ixt Mana Ina Haws](https://dce.oregonstate.edu/inahaws)    
+[Lonnie B. Harris Black Cultural Center](https://dce.oregonstate.edu/bcc)    
+[Pride Center](https://dce.oregonstate.edu/pc)    
+
+
+
+
+
+
+
+
+
+
