@@ -53,6 +53,10 @@ Also see: [CQLS tips](https://software.cqls.oregonstate.edu/tips/posts/)
 - 2022-04-06 [Ejigu and Jung 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7565776/) Review on the Computational Genome Annotation of Sequences Obtained by Next-Generation Sequencing
 
 
+- 2022-03-31 [Garfinkel et al. 2021](https://doi.org/10.3390/genes12020228). 
+SNP in Potentially Defunct Tetrahydrocannabinolic Acid Synthase Is a Marker for Cannabigerolic Acid Dominance in Cannabis sativa L. 
+
+
 ---
 
 
