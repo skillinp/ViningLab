@@ -90,6 +90,21 @@ knitr::include_graphics("cbdrx_mrna2.png")
 
 
 
+___
+
+
+## Internet Links
+
+
+[International Cannabis Genomics Research Consortium](https://icgrc.info/)    
+[The Cannabis Genome Browser](http://genome.ccbr.utoronto.ca/), the University of Toronto    
+[Cannabis at Wikipedia](https://en.wikipedia.org/wiki/Cannabis)    
+[Cannabis GDB](https://gdb.supercann.net/index.php)    
+[Kannapedia](https://www.kannapedia.net/)    
+[Hemp pests](https://pnwhandbooks.org/insect/agronomic/hemp) at Pacific Northwest Pest Management Handbooks    
+**Co**mparative **Ge**nomics [CoGe Cannabis](https://genomevolution.org/coge/SearchResults.pl?s=Cannabis&p=genome)    
+Oregon Department of Agriculture [hemp program](https://www.oregon.gov/oda/programs/Hemp/Pages/default.aspx)
+
 
 ___
 
@@ -100,17 +115,6 @@ Strain information:
 [CBD Logistics](https://www.cbdlogistics.ch/en/14-certified-seeds-cbd-logistics) (Switzerland) - Certified seeds    
 [Leafly](https://www.leafly.com/strains/lists) (WA, USA) - Strain lists    
 [Dewey Scientific](https://www.deweyscientific.com/) (WA, USA)    
-
-___
-
-## Internet Links
-
-[Cannabis at Wikipedia](https://en.wikipedia.org/wiki/Cannabis)    
-[Cannabis GDB](https://gdb.supercann.net/index.php)    
-[Kannapedia](https://www.kannapedia.net/)    
-[Hemp pests](https://pnwhandbooks.org/insect/agronomic/hemp) at Pacific Northwest Pest Management Handbooks    
-**Co**mparative **Ge**nomics [CoGe Cannabis](https://genomevolution.org/coge/SearchResults.pl?s=Cannabis&p=genome)    
-Oregon Department of Agriculture [hemp program](https://www.oregon.gov/oda/programs/Hemp/Pages/default.aspx)
 
 
 
