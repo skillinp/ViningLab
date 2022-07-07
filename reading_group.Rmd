@@ -35,13 +35,58 @@ Also see: [CQLS tips](https://software.cqls.oregonstate.edu/tips/posts/)
 
 ## Reading group
 
+
+### Summer 2022
+
+
+Thirty years of resistance: Zig-zag through the plant immune system. Bruno Pok Man Ngou, Pingtao Ding, Jonathan D G Jones
+<https://doi.org/10.1093/plcell/koac041>
+
+Cannabinoids, Phenolics, Terpenes and Alkaloids of Cannabis
+Mohamed M Radwan, Suman Chandra, Shahbaz Gul, Mahmoud A ElSohly
+< 10.3390/molecules26092774 >
+
+
+
+- 2022-09-13 Mayank Anand Gururani. 
+
+
+
+Plant disease resistance genes: Current status and future directions. Physiological and Molecular Plant Pathology 78 (2012) 51e65.
+<https://doi.org/10.1016/j.pmpp.2012.01.002>
+
+
+- 2022-08-30 [Insights into Drought Stress Signaling in Plants and
+the Molecular Genetic Basis of Cotton
+Drought Tolerance](https://mdpi-res.com/d_attachment/cells/cells-09-00105/article_deploy/cells-09-00105-v2.pdf?version=1579343178)
+
+
+- 2022-08-16. Muhammad Ilyas1 · Mohammad Nisar1 · Nadeem Khan1 · Ali Hazrat1 · Aamir Hamid Khan 2 · Kashif Hayat3 · Shah Fahad4 · Aziz Khan5 · Abid Ullah. Drought Tolerance Strategies in Plants: A Mechanistic Approach. Vol.:(0123456789)1 3Journal of Plant Growth Regulation [https://doi.org/10.1007/s00344-020-10174-5](https://doi.org/10.1007/s00344-020-10174-5)
+
+
+- 2022-08-02 Barbara McClintock. The origin and behavior of mutable loci in maize. June 1950. 36 (6) 344-355. [https://doi.org/10.1073/pnas.36.6.344](https://doi.org/10.1073/pnas.36.6.344)
+
+
+
+- 2022-07-19 CRISPR
+
+- 2022-07-05 Hi-C sequencing
+
+- 2022-07-14 Wild emmer genome architecture and diversity elucidate wheat evolution and domestication. Raz Avni, Moran Nave, Omer Barad, Kobi Baruch, Sven O. Twardziok, Heidrun Gundlach, Iago Hale, Martin Mascher, Manuel Spannagl, Assaf Distelfeld.
+<https://doi.org/10.1126/science.aan0032>
+
+
+- 2022-07-07 Twenty years of plant genome sequencing: achievements and challenges. Yanqing Sun, Lianguang Shang, Qian-Hao Zhu, Longjiang Fan, Longbiao Guo.
+<https://doi.org/10.1016/j.tplants.2021.10.006>
+
+
+- 2022-06-23 [How to read a scientific paper](https://www.science.org/content/article/how-seriously-read-scientific-paper)
+
+
+
 ### Spring 2022    
 
-
-- 2022-06-09
-
-
-- 2022-05-26 [Allen et al. 2019](https://doi.org/10.1371/journal. pone.0222363) Genomic characterization of the complete terpene synthase gene family from Cannabis sativa
+- 2022-05-26 [Allen et al. 2019](https://doi.org/10.1371/journal.pone.0222363) Genomic characterization of the complete terpene synthase gene family from Cannabis sativa
 
 
 - 2022-05-12 [Petit et al. 2020](https://doi.org/10.3389/fgene.2020.566314) Elucidating the Genetic Architecture of Fiber Quality in Hemp (Cannabis sativa L.) Using a Genome-Wide Association Study

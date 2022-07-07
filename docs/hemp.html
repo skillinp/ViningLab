@@ -14,7 +14,6 @@
 
 <title>Hemp breeding</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
@@ -59,28 +58,6 @@ if (window.hljs) {
 
 
 
-<style type="text/css">
-/* for pandoc --citeproc since 2.11 */
-div.csl-bib-body { }
-div.csl-entry {
-  clear: both;
-}
-.hanging div.csl-entry {
-  margin-left:2em;
-  text-indent:-2em;
-}
-div.csl-left-margin {
-  min-width:2em;
-  float:left;
-}
-div.csl-right-inline {
-  margin-left:2em;
-  padding-left:1em;
-}
-div.csl-indent {
-  margin-left: 2em;
-}
-</style>
 
 
 
@@ -315,7 +292,7 @@ $(document).ready(function () {
 
 <h1 class="title toc-ignore">Hemp breeding</h1>
 <h4 class="author">Brian J. Knaus</h4>
-<h4 class="date">2022, May 12</h4>
+<h4 class="date">2022, July 07</h4>
 
 </div>
 
@@ -328,39 +305,12 @@ $(document).ready(function () {
 </ul>
 </div>
 
-<p><em>Cannabis sativa</em> L. has been used almost as long as there has
-been civilization (<a
-href="https://en.wikipedia.org/wiki/Cannabis">Cannabis at
-Wikipedia</a>). The plant fiber has been used as a textile to make
-cloth, it’s seeds have been used as food for humans and animals, and
-it’s essential oils have been used as medicine. The 2018 U.S. farm bill
-decriminalized industrial hemp and has defined it as plants containing
-less than 0.3% <span
-class="math inline">\(\Delta\)</span>(9)-tetrahydrocannabinolic acid. A
-goal of the lab is to use genomics to better understand agronomically
-important traits and how we can make informed decisions to breed the
-best crops possible.</p>
+<p><em>Cannabis sativa</em> L. has been used almost as long as there has been civilization (<a href="https://en.wikipedia.org/wiki/Cannabis">Cannabis at Wikipedia</a>). The plant fiber has been used as a textile to make cloth, it’s seeds have been used as food for humans and animals, and it’s essential oils have been used as medicine. The 2018 U.S. farm bill decriminalized industrial hemp and has defined it as plants containing less than 0.3% <span class="math inline">\(\Delta\)</span>(9)-tetrahydrocannabinolic acid. A goal of the lab is to use genomics to better understand agronomically important traits and how we can make informed decisions to breed the best crops possible.</p>
 <hr />
 <div id="hemp-genomics." class="section level2">
 <h2>Hemp genomics.</h2>
-<p>The hemp genome is thought to be aroun 800-900 Mbp (haploid size) and
-consist of nine pairs of autosomes and a pair of sex chromosomes. The <a
-href="https://cvalues.science.kew.org/search/angiosperm">Kew Plant
-C-values database</a> reports <em>Cannabis sativa</em> as having a 1C
-(pg) of 0.84, or 821.52 Mbp (<a
-href="https://en.wikipedia.org/wiki/C-value">Wikipedia C-value
-conversion</a>). Sequencing efforts have resulted in over ten genomic
-assemblies of various qualities assembled with a variety of technologies
-(<a
-href="https://www.ncbi.nlm.nih.gov/search/all/?term=cannabis%20">Cannabis
-at NCBI</a>). A recent attempt <span class="citation">(Grassa et al.
-2021)</span> resulted in an assembly of all ten chromosomes (as well as
-unplaced contigs). Building on these genomic resources we hope to learn
-to better understand how these plants produce essential oils as well as
-other phytochemicals.</p>
-<p><a
-href="https://www.ncbi.nlm.nih.gov/genome/11681?genome_assembly_id=897706">CBDRx
-at NCBI</a></p>
+<p>The hemp genome is thought to be aroun 800-900 Mbp (haploid size) and consist of nine pairs of autosomes and a pair of sex chromosomes. The <a href="https://cvalues.science.kew.org/search/angiosperm">Kew Plant C-values database</a> reports <em>Cannabis sativa</em> as having a 1C (pg) of 0.84, or 821.52 Mbp (<a href="https://en.wikipedia.org/wiki/C-value">Wikipedia C-value conversion</a>). Sequencing efforts have resulted in over ten genomic assemblies of various qualities assembled with a variety of technologies (<a href="https://www.ncbi.nlm.nih.gov/search/all/?term=cannabis%20">Cannabis at NCBI</a>). A recent attempt <span class="citation">(Grassa et al. 2021)</span> resulted in an assembly of all ten chromosomes (as well as unplaced contigs). Building on these genomic resources we hope to learn to better understand how these plants produce essential oils as well as other phytochemicals.</p>
+<p><a href="https://www.ncbi.nlm.nih.gov/genome/11681?genome_assembly_id=897706">CBDRx at NCBI</a></p>
 <pre class="r"><code>nuc &lt;- structure(list(Id = c(&quot;NC_044371.1&quot;, &quot;NC_044375.1&quot;, &quot;NC_044372.1&quot;, 
 &quot;NC_044373.1&quot;, &quot;NC_044374.1&quot;, &quot;NC_044377.1&quot;, &quot;NC_044378.1&quot;, &quot;NC_044379.1&quot;, 
 &quot;NC_044376.1&quot;, &quot;NC_044370.1&quot;), Length = c(101209240, 96346938, 
@@ -398,62 +348,41 @@ rect(xleft = 1:nrow(nuc) - chrmw, ybottom = rep(1, times = nrow(nuc)),
 <div class="figure" style="text-align: center">
 <img src="hemp_files/figure-html/unnamed-chunk-2-1.png" alt="**Figure 1.** Idiogram of the nine CBDRx autosomal chromosomes and a sex chromosome (CBDRx was genetically female so it was homozygous for the X chromosome)." width="768" />
 <p class="caption">
-<strong>Figure 1.</strong> Idiogram of the nine CBDRx autosomal
-chromosomes and a sex chromosome (CBDRx was genetically female so it was
-homozygous for the X chromosome).
+<strong>Figure 1.</strong> Idiogram of the nine CBDRx autosomal chromosomes and a sex chromosome (CBDRx was genetically female so it was homozygous for the X chromosome).
 </p>
 </div>
 <div class="figure">
 <img src="cbdrx_mrna2.png" alt="**Figure X.** The chromosomes of CBDRx with mRNAs depicted in light blue." width="80%" />
 <p class="caption">
-<strong>Figure X.</strong> The chromosomes of CBDRx with mRNAs depicted
-in light blue.
+<strong>Figure X.</strong> The chromosomes of CBDRx with mRNAs depicted in light blue.
 </p>
 </div>
 <hr />
 </div>
 <div id="internet-links" class="section level2">
 <h2>Internet Links</h2>
-<p><a href="https://icgrc.info/">International Cannabis Genomics
-Research Consortium</a><br />
-<a href="http://genome.ccbr.utoronto.ca/">The Cannabis Genome
-Browser</a>, the University of Toronto<br />
-<a href="https://en.wikipedia.org/wiki/Cannabis">Cannabis at
-Wikipedia</a><br />
+<p><a href="https://icgrc.info/">International Cannabis Genomics Research Consortium</a><br />
+<a href="http://genome.ccbr.utoronto.ca/">The Cannabis Genome Browser</a>, the University of Toronto<br />
+<a href="https://en.wikipedia.org/wiki/Cannabis">Cannabis at Wikipedia</a><br />
 <a href="https://gdb.supercann.net/index.php">Cannabis GDB</a><br />
 <a href="https://www.kannapedia.net/">Kannapedia</a><br />
-<a href="https://pnwhandbooks.org/insect/agronomic/hemp">Hemp pests</a>
-at Pacific Northwest Pest Management Handbooks<br />
-<strong>Co</strong>mparative <strong>Ge</strong>nomics <a
-href="https://genomevolution.org/coge/SearchResults.pl?s=Cannabis&amp;p=genome">CoGe
-Cannabis</a><br />
-Oregon Department of Agriculture <a
-href="https://www.oregon.gov/oda/programs/Hemp/Pages/default.aspx">hemp
-program</a></p>
+<a href="https://pnwhandbooks.org/insect/agronomic/hemp">Hemp pests</a> at Pacific Northwest Pest Management Handbooks<br />
+<strong>Co</strong>mparative <strong>Ge</strong>nomics <a href="https://genomevolution.org/coge/SearchResults.pl?s=Cannabis&amp;p=genome">CoGe Cannabis</a><br />
+Oregon Department of Agriculture <a href="https://www.oregon.gov/oda/programs/Hemp/Pages/default.aspx">hemp program</a></p>
 <hr />
 </div>
 <div id="industry-links" class="section level2">
 <h2>Industry links</h2>
 <p>Strain information:<br />
-<a
-href="https://www.cbdlogistics.ch/en/14-certified-seeds-cbd-logistics">CBD
-Logistics</a> (Switzerland) - Certified seeds<br />
-<a href="https://www.leafly.com/strains/lists">Leafly</a> (WA, USA) -
-Strain lists<br />
-<a href="https://www.deweyscientific.com/">Dewey Scientific</a> (WA,
-USA)</p>
+<a href="https://www.cbdlogistics.ch/en/14-certified-seeds-cbd-logistics">CBD Logistics</a> (Switzerland) - Certified seeds<br />
+<a href="https://www.leafly.com/strains/lists">Leafly</a> (WA, USA) - Strain lists<br />
+<a href="https://www.deweyscientific.com/">Dewey Scientific</a> (WA, USA)</p>
 </div>
 <div id="references" class="section level1 unnumbered">
-<h1 class="unnumbered">References</h1>
-<div id="refs" class="references csl-bib-body hanging-indent">
-<div id="ref-grassa2021new" class="csl-entry">
-Grassa, Christopher J, George D Weiblen, Jonathan P Wenger, Clemon
-Dabney, Shane G Poplawski, S Timothy Motley, Todd P Michael, and CJ
-Schwartz. 2021. <span>“A New <em><span>C</span>annabis</em> Genome
-Assembly Associates Elevated Cannabidiol (<span>CBD</span>) with Hemp
-Introgressed into Marijuana.”</span> <em>New Phytologist</em> 230 (4):
-1665–79. <a
-href="https://doi.org/10.1111/nph.17243">https://doi.org/10.1111/nph.17243</a>.
+<h1>References</h1>
+<div id="refs" class="references">
+<div id="ref-grassa2021new">
+<p>Grassa, Christopher J, George D Weiblen, Jonathan P Wenger, Clemon Dabney, Shane G Poplawski, S Timothy Motley, Todd P Michael, and CJ Schwartz. 2021. “A New <em>Cannabis</em> Genome Assembly Associates Elevated Cannabidiol (CBD) with Hemp Introgressed into Marijuana.” <em>New Phytologist</em> 230 (4): 1665–79. <a href="https://doi.org/10.1111/nph.17243">https://doi.org/10.1111/nph.17243</a>.</p>
 </div>
 </div>
 </div>
