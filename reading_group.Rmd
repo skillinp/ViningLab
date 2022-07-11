@@ -39,6 +39,14 @@ Also see: [CQLS tips](https://software.cqls.oregonstate.edu/tips/posts/)
 
 ### Candidate reading
 
+**CRISPR cas9**
+
+Arora, L. and Narula, A., 2017. Gene editing and crop improvement using CRISPR-Cas9 system. Frontiers in plant science, 8, p.1932. <https://doi.org/10.3389/fpls.2017.01932>
+
+Dort, E.N., Tanguay, P. and Hamelin, R.C., 2020. CRISPR/Cas9 gene editing: an unexplored frontier for forest pathology. Frontiers in Plant Science, 11, p.1126. <https://doi.org/10.3389/fpls.2020.01126>
+
+
+
 
 **Drought tolerance**
 
