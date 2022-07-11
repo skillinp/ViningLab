@@ -36,24 +36,62 @@ Also see: [CQLS tips](https://software.cqls.oregonstate.edu/tips/posts/)
 ## Reading group
 
 
+
+### Candidate reading
+
+
+**Drought tolerance**
+
+Fleury, D., Jefferies, S., Kuchel, H. and Langridge, P., 2010. Genetic and genomic tools to improve drought tolerance in wheat. Journal of experimental botany, 61(12), pp.3211-3222. <https://doi.org/10.1093/jxb/erq152>
+
+
+**Genomics**
+
+Hi-C
+
+Belton, J.M., McCord, R.P., Gibcus, J.H., Naumova, N., Zhan, Y. and Dekker, J., 2012. Hi–C: a comprehensive technique to capture the conformation of genomes. Methods, 58(3), pp.268-276. <https://doi.org/10.1016/j.ymeth.2012.05.001>
+
+Pal, K., Forcato, M. and Ferrari, F., 2019. Hi-C analysis: from data generation to integration. Biophysical reviews, 11(1), pp.67-78. <https://doi.org/10.1007/s12551-018-0489-1>
+
+Kronenberg, Z.N., Rhie, A., Koren, S., Concepcion, G.T., Peluso, P., Munson, K.M., Porubsky, D., Kuhn, K., Mueller, K.A., Low, W.Y. and Hiendleder, S., 2021. Extended haplotype-phasing of long-read de novo genome assemblies using Hi-C. Nature communications, 12(1), pp.1-10.
+<https://doi.org/10.1038/s41467-020-20536-y>
+
+
+
+
+**Pathology**
+
+Thirty years of resistance: Zig-zag through the plant immune system. Bruno Pok Man Ngou, Pingtao Ding, Jonathan D G Jones. <https://doi.org/10.1093/plcell/koac041>
+
+Plant disease resistance genes: Current status and future directions. Mayank Anand Gururani. Physiological and Molecular Plant Pathology 78 (2012) 51e65. <https://doi.org/10.1016/j.pmpp.2012.01.002>
+
+
+**Phytochemicals**
+
+Cannabinoids, Phenolics, Terpenes and Alkaloids of Cannabis. Mohamed M Radwan, Suman Chandra, Shahbaz Gul, Mahmoud A ElSohly <https://doi.org/10.3390/molecules26092774>
+
+Secondary metabolism in Cannabis. Isvett Josefina Flores-Sanchez Æ Robert Verpoorte. Phytochem Rev (2008) 7:615–639. <https://doi.org/10.1007/s11101-008-9094-4>
+
+
+Bautista, J.L., Yu, S. and Tian, L., 2021. Flavonoids in Cannabis sativa: Biosynthesis, bioactivities, and biotechnology. ACS omega, 6(8), pp.5119-5123. <https://doi.org/10.1021/acsomega.1c00318>
+
+
+
+
+
 ### Summer 2022
 
 
-Thirty years of resistance: Zig-zag through the plant immune system. Bruno Pok Man Ngou, Pingtao Ding, Jonathan D G Jones
-<https://doi.org/10.1093/plcell/koac041>
-
-Cannabinoids, Phenolics, Terpenes and Alkaloids of Cannabis
-Mohamed M Radwan, Suman Chandra, Shahbaz Gul, Mahmoud A ElSohly
-< 10.3390/molecules26092774 >
 
 
 
-- 2022-09-13 Mayank Anand Gururani. 
+
+- 2022-09-13
 
 
 
-Plant disease resistance genes: Current status and future directions. Physiological and Molecular Plant Pathology 78 (2012) 51e65.
-<https://doi.org/10.1016/j.pmpp.2012.01.002>
+
+
 
 
 - 2022-08-30 [Insights into Drought Stress Signaling in Plants and
