@@ -52,8 +52,23 @@ Dort, E.N., Tanguay, P. and Hamelin, R.C., 2020. CRISPR/Cas9 gene editing: an un
 
 Fleury, D., Jefferies, S., Kuchel, H. and Langridge, P., 2010. Genetic and genomic tools to improve drought tolerance in wheat. Journal of experimental botany, 61(12), pp.3211-3222. <https://doi.org/10.1093/jxb/erq152>
 
+Muhammad Ilyas1 · Mohammad Nisar1 · Nadeem Khan1 · Ali Hazrat1 · Aamir Hamid Khan 2 · Kashif Hayat3 · Shah Fahad4 · Aziz Khan5 · Abid Ullah. Drought Tolerance Strategies in Plants: A Mechanistic Approach. Vol.:(0123456789)1 3Journal of Plant Growth Regulation [https://doi.org/10.1007/s00344-020-10174-5](https://doi.org/10.1007/s00344-020-10174-5)
+
+[Insights into Drought Stress Signaling in Plants and
+the Molecular Genetic Basis of Cotton
+Drought Tolerance](https://mdpi-res.com/d_attachment/cells/cells-09-00105/article_deploy/cells-09-00105-v2.pdf?version=1579343178)
+
 
 **Genomics**
+
+Barbara McClintock. The origin and behavior of mutable loci in maize. June 1950. 36 (6) 344-355. [https://doi.org/10.1073/pnas.36.6.344](https://doi.org/10.1073/pnas.36.6.344)
+
+
+Wild emmer genome architecture and diversity elucidate wheat evolution and domestication. Raz Avni, Moran Nave, Omer Barad, Kobi Baruch, Sven O. Twardziok, Heidrun Gundlach, Iago Hale, Martin Mascher, Manuel Spannagl, Assaf Distelfeld.
+<https://doi.org/10.1126/science.aan0032>
+
+
+
 
 Hi-C
 
@@ -94,33 +109,19 @@ Bautista, J.L., Yu, S. and Tian, L., 2021. Flavonoids in Cannabis sativa: Biosyn
 
 
 
-- 2022-09-13
+- 2022-09-15
 
 
+- 2022-09-01
 
 
+- 2022-08-18
 
 
-
-- 2022-08-30 [Insights into Drought Stress Signaling in Plants and
-the Molecular Genetic Basis of Cotton
-Drought Tolerance](https://mdpi-res.com/d_attachment/cells/cells-09-00105/article_deploy/cells-09-00105-v2.pdf?version=1579343178)
+- 2022-08-04
 
 
-- 2022-08-16. Muhammad Ilyas1 · Mohammad Nisar1 · Nadeem Khan1 · Ali Hazrat1 · Aamir Hamid Khan 2 · Kashif Hayat3 · Shah Fahad4 · Aziz Khan5 · Abid Ullah. Drought Tolerance Strategies in Plants: A Mechanistic Approach. Vol.:(0123456789)1 3Journal of Plant Growth Regulation [https://doi.org/10.1007/s00344-020-10174-5](https://doi.org/10.1007/s00344-020-10174-5)
-
-
-- 2022-08-02 Barbara McClintock. The origin and behavior of mutable loci in maize. June 1950. 36 (6) 344-355. [https://doi.org/10.1073/pnas.36.6.344](https://doi.org/10.1073/pnas.36.6.344)
-
-
-
-- 2022-07-19 CRISPR
-
-- 2022-07-05 Hi-C sequencing
-
-- 2022-07-14 Wild emmer genome architecture and diversity elucidate wheat evolution and domestication. Raz Avni, Moran Nave, Omer Barad, Kobi Baruch, Sven O. Twardziok, Heidrun Gundlach, Iago Hale, Martin Mascher, Manuel Spannagl, Assaf Distelfeld.
-<https://doi.org/10.1126/science.aan0032>
-
+- 2022-07-21
 
 - 2022-07-07 Twenty years of plant genome sequencing: achievements and challenges. Yanqing Sun, Lianguang Shang, Qian-Hao Zhu, Longjiang Fan, Longbiao Guo.
 <https://doi.org/10.1016/j.tplants.2021.10.006>
